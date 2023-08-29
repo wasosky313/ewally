@@ -24,3 +24,10 @@ Repository for all features and ewally's api codes
     "msg": "Seu login está bloqueado por mais: 50 minutos"
 }
 ```
+```json
+{
+    "code":109,
+    "msg":"Login e senha não conferem.
+            Você possui apenas mais uma tentativa antes de ser temporariamente bloqueado"
+}
+```
